@@ -1,0 +1,5 @@
+{
+  "name": "Bitcoin Dice",
+  "description": "A provably fair dice game on Bitcoin L1 (Regtest) with UniSat and OP Wallet support.",
+  "requestFramePermissions": []
+}
